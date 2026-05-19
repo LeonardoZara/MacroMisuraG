@@ -1,6 +1,6 @@
 # MacroMisuraG
 
-# Analisi Dati: Esperimento di Cavendish (Misura di $G$)
+## Analisi Dati: Esperimento di Cavendish (Misura di $G$)
 
 Questo repository contiene la macro ROOT in C++ utilizzata per l'analisi dei dati dell'esperimento di Cavendish per la determinazione della costante di gravitazione universale $G$.
 
