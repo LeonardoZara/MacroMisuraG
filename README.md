@@ -4,8 +4,6 @@
 
 Questo repository contiene la macro ROOT in C++ utilizzata per l'analisi dei dati dell'esperimento di Cavendish per la determinazione della costante di gravitazione universale $G$.
 
-## Obiettivo dell'Analisi
-
 Il codice effettua un fit non lineare sui dati della posizione dello spot luminoso (in cm) in funzione del tempo (in secondi). Il modello implementato tiene conto di un'oscillazione sinusoidale smorzata sovrapposta a una deriva lineare dell'equilibrio:
 $$f(x) = p_0 \cdot \sin(p_1 \cdot x + p_2) \cdot e^{-\frac{x}{p_3}} + p_4 + p_5 \cdot x$$
 
