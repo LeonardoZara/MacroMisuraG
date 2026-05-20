@@ -19,7 +19,7 @@ $$f(x) = p_0 \cdot \sin(p_1 \cdot x + p_2) \cdot e^{-\frac{x}{p_3}} + p_4 + p_5 
 
 ## Struttura dei Dati Richiesti
 
-Per far girare la macro, è necessario avere nella stessa cartella un file di testo chiamato **`dati.txt`**. Il file deve essere strutturato in 4 colonne separate da spazi o tabulazioni:
+Per far girare la macro, è necessario avere nella stessa cartella un file di testo chiamato **`dati.txt`**. Il file deve essere strutturato in 2 colonne separate da spazi o tabulazioni:
 
 ```text
 # Tempo(s)  Posizione(cm)
